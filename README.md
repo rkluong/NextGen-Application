@@ -1,0 +1,1 @@
+"Developed an IOS application that centralizes University Community Events into a mobile application for University of California, Irvine Students.  This application allows quick search access to Events hosted around the University Community including sports, Technology, and Organization Events. " 
